@@ -1,0 +1,41 @@
+{
+  "name": "daterangepicker",
+  "description": "A simple daterangepicker without dependencies (pure javascript)",
+  "keywords": [
+    "date",
+    "picker",
+    "datepicker",
+    "daterangepicker",
+    "daterange",
+    "range",
+    "html",
+    "css",
+    "javascript",
+    "front-end",
+    "web"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Risfat97/daterangepicker.git"
+  },
+  "autoupdate": {
+    "source": "git",
+    "target": "https://github.com/Risfat97/daterangepicker.git",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "daterangepicker.*"
+        ]
+      }
+    ]
+  },
+  "filename": "daterangepicker.js",
+  "authors": [
+    {
+      "name": "Tafsir Mbodj NDIOUR",
+      "url": "https://www.linkedin.com/in/tafsir-mbodj-ndiour-4a46b0161"
+    }
+  ]
+}
